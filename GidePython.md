@@ -1,3 +1,4 @@
+git push -u origin main
 n = input() - вести
 print = n - вывод
 print(n + "5") - добавляет
